@@ -1,0 +1,1 @@
+/home/gass/.cache/wal/colors-wal-dwm.h
